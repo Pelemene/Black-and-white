@@ -1,0 +1,14 @@
+img{
+    width: 30%;
+    float: left;
+    margin: 1.66%;
+}
+p{
+    font-family: Orbitron;
+    margin: 1.66%;
+    border-bottom: 3px solid #f1f1f1;
+    font-weight: 600;
+    font-size: 40px;
+    width: 30%;
+    padding-bottom: 5px;
+}
